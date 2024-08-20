@@ -1,0 +1,9 @@
+contact-create-api/node_modules
+contact-create-api/.env
+contact-delete-api/node_modules
+contact-delete-api/.env
+contact-read-api/node_modules
+contact-read-api/.env
+contact-update-api/node_modules
+contact-update-api/.env
+ContactManagerFrontend

@@ -1,0 +1,9 @@
+version: '3'
+services:
+  api:
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      - PORT=80
+      - MONGODB_URI=mongodb+srv://anuragmongodb:MongoDataBase@contactmanager.xzfmy2u.mongodb.net/?retryWrites=true&w=majority&appName=ContactManager
